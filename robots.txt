@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://icalphert.github.io/sitemap.html.gz
+Sitemap: https://icalphert.github.io/app/sitemap.html.gz
+Sitemap: https://icalphert.github.io/assets/sitemap.html.gz
+Sitemap: https://icalphert.github.io/css/sitemap.html.gz
+Sitemap: https://icalphert.github.io/includes/sitemap.html.gz
+Sitemap: https://icalphert.github.io/item/sitemap.html.gz
+Sitemap: https://icalphert.github.io/src/sitemap.html.gz
